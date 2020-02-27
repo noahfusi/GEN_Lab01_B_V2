@@ -1,3 +1,4 @@
 master commit 1
 branch1 commit 1
 branch3 commit 1
+branch2 commit 1
